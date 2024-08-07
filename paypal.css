@@ -113,12 +113,12 @@ body {
   max-width: 1280px;
   margin: 0 auto;
   display: flex;
+  justify-content: center;
 }
 
 #section1-body-text {
   height: 642px;
   width: 553px;
-  padding: 0px 0px 52px;
   display: flex;
   flex-direction: column;
   justify-content: center;
